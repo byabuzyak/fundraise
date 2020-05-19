@@ -1,5 +1,5 @@
 # Fundraise test application
-##Preview
+## Preview
 ![Image](https://i.ibb.co/VvWvZsC/2020-05-19-12-04-30.png)
 
 ## Installing
@@ -18,16 +18,16 @@ npm run build
 ```
 And run the server
 ```
-npm serve
+npm run serve
 ```
 
-###All done
+### All done
 Now you can visit
 ```
 http://localhost:3000
 ``` 
 
-##Running the tests
+## Running the tests
 ```
 npm run test
 ```
