@@ -95,7 +95,7 @@
         },
         data() {
             return {
-                value: null,
+                value: suggestion,
                 currentCurrency: currencies[0],
                 currencies: currencies,
                 presets: presets
